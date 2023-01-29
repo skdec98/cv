@@ -1,8 +1,17 @@
 body{
+	background-color: #EAF6F6;
 }
-{
-	font-size: 30px;
+h1,h3{
+
+	color: #66BFBF;
 }
-pre{
-	font-size: 15px;
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 5%;
+}
+img{
+	border-radius: 50%;
 }
